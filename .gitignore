@@ -1,0 +1,7 @@
+__pycache__/
+*.db
+*.txt
+*.mid
+*.localenv/
+*.remoteenv/
+*.env/
